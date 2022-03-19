@@ -1,0 +1,5 @@
+ErrorDocument 400 https://gallego610.github.io/
+ErrorDocument 401 https://gallego610.github.io/
+ErrorDocument 403 https://gallego610.github.io/
+ErrorDocument 404 https://gallego610.github.io/
+ErrorDocument 503 https://gallego610.github.io/
